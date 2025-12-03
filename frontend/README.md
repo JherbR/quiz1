@@ -26,12 +26,12 @@ Follow these steps to set up and run the iMango frontend on your local machine:
 
 Clone the repository:
 
-git clone https://github.com/JherbR/datastalgoQuiz1
+git clone https://github.com/JherbR/quiz1
 
 Change Directory:
 
-cd "datasalgoQuiz1
-
+cd quiz1
+cd frontend
 
 Install Dependencies:
 
