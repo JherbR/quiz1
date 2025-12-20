@@ -26,6 +26,7 @@ Follow these steps to set up and run the iMango frontend on your local machine:
 
 Clone the repository:
 
+<<<<<<< HEAD
 git clone https://github.com/JherbR/quiz1
 
 Change Directory:
@@ -37,6 +38,19 @@ Install Dependencies:
 
 You must install the project's dependencies, including React-Bootstrap for UI components, Bootstrap for styling, and React Router DOM for navigation.
 
+=======
+git clone https://github.com/JherbR/datastalgoQuiz1
+
+Change Directory:
+
+cd "datasalgoQuiz1
+
+
+Install Dependencies:
+
+You must install the project's dependencies, including React-Bootstrap for UI components, Bootstrap for styling, and React Router DOM for navigation.
+
+>>>>>>> 22e22ac (feat:)
 npm install
 or
 yarn install

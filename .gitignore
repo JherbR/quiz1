@@ -1,0 +1,38 @@
+--- Environments & Secrets ---
+
+Ignores venv anywhere in the project
+
+**/venv/
+**/env/
+.env
+*.env
+.venv/
+ENV/
+
+--- Backend (Python/Django) ---
+
+Exclude compiled python files
+
+**/pycache/
+*.py[cod]
+*$py.class
+
+NOTE: SQLite database is INCLUDED for this quiz
+
+(The line *.sqlite3 remains removed)
+
+--- Frontend (Node/React) ---
+
+Ignores node_modules in any subfolder
+
+*/node_modules/
+frontend/.env.local
+frontend/.env.development.local
+frontend/npm-debug.log
+
+--- General / OS ---
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
